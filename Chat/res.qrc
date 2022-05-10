@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/close.svg</file>
+        <file>Image/journey.png</file>
+        <file>Image/magnify.svg</file>
+        <file>Image/shrink.svg</file>
+        <file>Image/normal.svg</file>
+        <file>Image/send.svg</file>
+        <file>Image/back.svg</file>
+        <file>Image/passnotvisible.svg</file>
+        <file>Image/passvisible.svg</file>
+        <file>Image/account.svg</file>
+        <file>Image/mistake.svg</file>
+        <file>Image/settings.svg</file>
+        <file>Image/signup.svg</file>
+        <file>Image/login.svg</file>
+        <file>Image/Tchat.svg</file>
+        <file>Image/preview.gif</file>
+        <file>Image/find.svg</file>
+    </qresource>
+</RCC>
